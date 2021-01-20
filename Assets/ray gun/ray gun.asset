@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 195513ca911224e42befba262887df75, type: 3}
+  m_Name: ray gun
+  m_EditorClassIdentifier: 
+  gun: {fileID: 2359502810653996543, guid: 1a2357133854a7c4aa498ed846871dc0, type: 3}
+  hit_partical: {fileID: 8818139543597736928, guid: 4248786567043524c951173cb56f0c65, type: 3}
+  shoot_partical: {fileID: 6245028080743943072, guid: 5083108e19294b241b2279455e2cd880, type: 3}
+  musole: {fileID: 0}
+  animator: {fileID: 6502244866695011011, guid: 1a2357133854a7c4aa498ed846871dc0, type: 3}
+  max_ammo: 10
+  fire_rate: 10
